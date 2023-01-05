@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "dep-parser"
+version = "0.1.0"
+description = "dependency parser using pre-trained transformer"
+authors = ["Clark Saben"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+[tool.poetry.dev-dependencies]
+torch = 1.9.1
+torchtext = 0.10.1
+
+[build-system]
+requires = ["poetry>=1.0"]
+build-backend = "poetry.masonry.api"
