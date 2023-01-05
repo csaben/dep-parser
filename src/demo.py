@@ -4,24 +4,26 @@ import networkx as nx
 def main():
     sentence = "What is the airspeed of an unladen swallow?"
     dependencies = [("ROOT", (0, 0)), ("cop", (1, 0)), ("nsubj", (2, 0)), ("det", (3, 2)), ("dep", (4, 2)), ("case", (5, 4)), ("det", (6, 4)), ("amod", (7, 4))]
-    visualize_dependencies(sentence, dependencies)
+    # visualize_dependencies(sentence, dependencies)
+    vis2(dependencies)
 
 
+def vis2(dependencies):
+    # Build the graph using the dependencies
+    G = nx.Graph()
+    for dependency in dependencies:
+        G.add_edge(dependency[0][0], dependency[1][0], label=dependency[0][1])
 
-# def visualize_dependencies(dependencies, sentence, root_word):
-#     graph = nx.DiGraph()
-#     graph.add_node(root_word, pos=(0,0))
-    
-#     for dependency in dependencies:
-#         graph.add_node(dependency[2], pos=(1, dependencies.index(dependency)))
-#         graph.add_edge(dependency[0], dependency[2])
-    
-#     pos = nx.get_node_attributes(graph, 'pos')
-#     nx.draw(graph, pos)
-#     labels = nx.get_edge_attributes(graph, 'weight')
-#     nx.draw_networkx_edge_labels(graph, pos, edge_labels=labels)
-#     plt.show()
+    # Draw the graph
+    pos = nx.spring_layout(G)
+    nx.draw(G, pos)
 
+    # Add labels to the edges
+    labels = nx.get_edge_attributes(G, 'label')
+    nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)
+
+    # Save the image
+    plt.savefig('../output/dependencies2.png')
 
 def visualize_dependencies(sentence, dependencies):
     # Create a directed graph
