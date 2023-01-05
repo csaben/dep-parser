@@ -59,3 +59,10 @@ java -mx4g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -preload t
 ```
 
 You can find more information about using the Stanford CoreNLP server in NLTK [here](https://github.com/nltk/nltk/wiki/Stanford-CoreNLP-API-in-NLTK).
+
+
+## Literature
+
+1. [stanford ch14 dependency parsing](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
+
+
