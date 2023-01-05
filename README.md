@@ -3,7 +3,7 @@
 
 Welcome to the Dependency Parsing Application! This project provides a command-line interface for parsing the dependencies in a given sentence.
 
-## Setup
+## Setup (tentative; final will take documents and output parsed trees and a key to their context in a separate file)
 
 To use this project, you will need to have the following requirements installed on your system:
 
