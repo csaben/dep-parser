@@ -43,28 +43,10 @@ class DependencyParserDataset(Dataset):
             elif isinstance(curr, list):
                 curr = [self.tokenize_label(elem) for elem in curr]
             elif isinstance(curr, str):
-                curr = '[CLS] '+curr+' [SEP]'
+                # curr = '[CLS] '+curr+' [SEP]' #bert doesnt need label to have these tokens
                 curr = self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(curr))
                 self.add_tokens([curr])
         return curr
-
-    #@staticmethod
-    #def detokenize_label(label):
-    #    stack = [label]
-    #    while stack:
-    #        curr = stack.pop()
-    #        if isinstance(curr, tuple):
-    #            curr = tuple(DependencyParserDataset.detokenize_label(elem) for elem in curr)
-    #        elif isinstance(curr, list):
-    #            curr = [DependencyParserDataset.detokenize_label(elem) for elem in curr]
-    #        elif isinstance(curr, int):
-    #            curr = self.tokenizer.convert_ids_to_tokens([curr])
-    #            #this doesn't fully recover it so instead store original label and keep track
-    #            curr = self.tokenizer.convert_tokens_to_string(curr)
-    #            #apparently there is one
-    #            #TODO: i just add this line below, does it break things?
-    #            curr = tokenizer.decode(curr)#should i dump the curr[0]?
-    #    return curr
 
     def save_labels(self, filepath):
         with open(filepath, 'wb') as f:
@@ -79,11 +61,6 @@ class DependencyParserDataset(Dataset):
         self.original_labels.append(original_label[0])
 
         tokenized_label = self.tokenize_label(original_label[0])
-
-        #TODO: is this actually accessible this way or should I also store original?
-        #TODO: this prob goes away if I have a mapping generator script
-        # self.label_mapping.add_mapping(tokenized_label, )
-
         
         return sentence, tokenized_label
 
@@ -91,6 +68,7 @@ class DependencyParserDataset(Dataset):
         self.tokenizer.add_tokens(tokens)
         self.model.resize_token_embeddings(len(self.tokenizer))
 
+        #NOTE: is training affected if I don't do this, no converge == come back here
         #apparently to do this it has to not be in place (not sure how to handle it rn)
         # self.model.embeddings.word_embeddings.weight[-1, :] = torch.zeros([self.model.config.hidden_size])
 
