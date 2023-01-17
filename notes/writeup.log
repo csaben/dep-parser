@@ -1,0 +1,1934 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.1.13)  17 JAN 2023 05:24
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**writeup.tex
+(./writeup.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+
+./writeup.tex:1: Package inputenc Error: Invalid UTF-8 byte "FF.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ÿ
+     þ%^^@ ^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+./writeup.tex:1: Package inputenc Error: Invalid UTF-8 byte "FE.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ÿþ
+      %^^@ ^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^...
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+./writeup.tex:2: Text line contains an invalid character.
+l.2 ^^@
+       %^^@ ^^@T^^@h^^@i^^@s^^@ ^^@i^^@s^^@ ^^@a^^@l^^@l^^@ ^^@p^^@r^^@e^^@a...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:3: Text line contains an invalid character.
+l.3 ^^@
+       %^^@ ^^@H^^@e^^@a^^@d^^@ ^^@d^^@o^^@w^^@n^^@ ^^@t^^@o^^@ ^^@w^^@h^^@e...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:4: Text line contains an invalid character.
+l.4 ^^@
+       %^^@ ^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-^^@-...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:5: Text line contains an invalid character.
+l.5 ^^@
+       
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@
+       \^^@d^^@o^^@c^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:6: Undefined control sequence.
+l.6 ^^@\^^@
+           d^^@o^^@c^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./writeup.tex:6: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ^^@\^^@d
+            ^^@o^^@c^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no d in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@
+               o^^@c^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@o^^@
+                   c^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@o^^@c^^@
+                       u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no u in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@o^^@c^^@u^^@
+                           m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@o^^@c^^@u^^@m^^@
+                               e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@o^^@c^^@u^^@m^^@e^^@
+                                   n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@o^^@c^^@u^^@m^^@e^^@n^^@
+                                       t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@o^^@c^^@u^^@m^^@e^^@n^^@t^^@
+                                           c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ^^@\^^@d^^@o^^@c^^@u^^@m^^@e^^@n^^@t^^@c^^@
+                                               l^^@a^^@s^^@s^^@[^^@1^^@2^^@p...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no l in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@d^^@o^^@c^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@
+                                                  a^^@s^^@s^^@[^^@1^^@2^^@p^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@o^^@c^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@
+                                                  s^^@s^^@[^^@1^^@2^^@p^^@t^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@c^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@
+                                                  s^^@[^^@1^^@2^^@p^^@t^^@]^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@u^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@
+                                                  [^^@1^^@2^^@p^^@t^^@]^^@{^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no [ in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@m^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@
+                                                  1^^@2^^@p^^@t^^@]^^@{^^@a^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 1 in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@e^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@
+                                                  2^^@p^^@t^^@]^^@{^^@a^^@r^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 2 in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@n^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@
+                                                  p^^@t^^@]^^@{^^@a^^@r^^@t^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@t^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p^^@
+                                                  t^^@]^^@{^^@a^^@r^^@t^^@i^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@c^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p^^@t^^@
+                                                  ]^^@{^^@a^^@r^^@t^^@i^^@c^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ] in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@l^^@a^^@s^^@s^^@[^^@1^^@2^^@p^^@t^^@]^^@
+                                                  {^^@a^^@r^^@t^^@i^^@c^^@l^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@a^^@s^^@s^^@[^^@1^^@2^^@p^^@t^^@]^^@{^^@
+                                                  a^^@r^^@t^^@i^^@c^^@l^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@s^^@s^^@[^^@1^^@2^^@p^^@t^^@]^^@{^^@a^^@
+                                                  r^^@t^^@i^^@c^^@l^^@e^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@s^^@[^^@1^^@2^^@p^^@t^^@]^^@{^^@a^^@r^^@
+                                                  t^^@i^^@c^^@l^^@e^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@[^^@1^^@2^^@p^^@t^^@]^^@{^^@a^^@r^^@t^^@
+                                                  i^^@c^^@l^^@e^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@1^^@2^^@p^^@t^^@]^^@{^^@a^^@r^^@t^^@i^^@
+                                                  c^^@l^^@e^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@2^^@p^^@t^^@]^^@{^^@a^^@r^^@t^^@i^^@c^^@
+                                                  l^^@e^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no l in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@p^^@t^^@]^^@{^^@a^^@r^^@t^^@i^^@c^^@l^^@
+                                                  e^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@t^^@]^^@{^^@a^^@r^^@t^^@i^^@c^^@l^^@e^^@
+                                                  }^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:6: Text line contains an invalid character.
+l.6 ...^^@]^^@{^^@a^^@r^^@t^^@i^^@c^^@l^^@e^^@}^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:7: Text line contains an invalid character.
+l.7 ^^@
+       
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
+[] 
+ []
+
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@
+       \^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:8: Undefined control sequence.
+l.8 ^^@\^^@
+           u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./writeup.tex:8: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ^^@\^^@u
+            ^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no u in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@
+               s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@s^^@
+                   e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@s^^@e^^@
+                       p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@s^^@e^^@p^^@
+                           a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@s^^@e^^@p^^@a^^@
+                               c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@s^^@e^^@p^^@a^^@c^^@
+                                   k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no k in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@
+                                       a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@
+                                           g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no g in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ^^@\^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@
+                                               e^^@[^^@m^^@a^^@r^^@g^^@i^^@n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@
+                                                  [^^@m^^@a^^@r^^@g^^@i^^@n^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no [ in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@
+                                                  m^^@a^^@r^^@g^^@i^^@n^^@=^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@
+                                                  a^^@r^^@g^^@i^^@n^^@=^^@1^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@
+                                                  r^^@g^^@i^^@n^^@=^^@1^^@i^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@a^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@
+                                                  g^^@i^^@n^^@=^^@1^^@i^^@n^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no g in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@c^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@
+                                                  i^^@n^^@=^^@1^^@i^^@n^^@]^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@k^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@
+                                                  n^^@=^^@1^^@i^^@n^^@]^^@{^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@a^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n^^@
+                                                  =^^@1^^@i^^@n^^@]^^@{^^@g^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no = in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@g^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n^^@=^^@
+                                                  1^^@i^^@n^^@]^^@{^^@g^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 1 in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@e^^@[^^@m^^@a^^@r^^@g^^@i^^@n^^@=^^@1^^@
+                                                  i^^@n^^@]^^@{^^@g^^@e^^@o^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@[^^@m^^@a^^@r^^@g^^@i^^@n^^@=^^@1^^@i^^@
+                                                  n^^@]^^@{^^@g^^@e^^@o^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@m^^@a^^@r^^@g^^@i^^@n^^@=^^@1^^@i^^@n^^@
+                                                  ]^^@{^^@g^^@e^^@o^^@m^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ] in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@a^^@r^^@g^^@i^^@n^^@=^^@1^^@i^^@n^^@]^^@
+                                                  {^^@g^^@e^^@o^^@m^^@e^^@t^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@r^^@g^^@i^^@n^^@=^^@1^^@i^^@n^^@]^^@{^^@
+                                                  g^^@e^^@o^^@m^^@e^^@t^^@r^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no g in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@g^^@i^^@n^^@=^^@1^^@i^^@n^^@]^^@{^^@g^^@
+                                                  e^^@o^^@m^^@e^^@t^^@r^^@y^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@i^^@n^^@=^^@1^^@i^^@n^^@]^^@{^^@g^^@e^^@
+                                                  o^^@m^^@e^^@t^^@r^^@y^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@n^^@=^^@1^^@i^^@n^^@]^^@{^^@g^^@e^^@o^^@
+                                                  m^^@e^^@t^^@r^^@y^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@=^^@1^^@i^^@n^^@]^^@{^^@g^^@e^^@o^^@m^^@
+                                                  e^^@t^^@r^^@y^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@1^^@i^^@n^^@]^^@{^^@g^^@e^^@o^^@m^^@e^^@
+                                                  t^^@r^^@y^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@i^^@n^^@]^^@{^^@g^^@e^^@o^^@m^^@e^^@t^^@
+                                                  r^^@y^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@n^^@]^^@{^^@g^^@e^^@o^^@m^^@e^^@t^^@r^^@
+                                                  y^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no y in font nullfont!
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@]^^@{^^@g^^@e^^@o^^@m^^@e^^@t^^@r^^@y^^@
+                                                  }^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:8: Text line contains an invalid character.
+l.8 ...^^@{^^@g^^@e^^@o^^@m^^@e^^@t^^@r^^@y^^@}^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@
+       \^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:9: Undefined control sequence.
+l.9 ^^@\^^@
+           u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no u in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@
+               s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@s^^@
+                   e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@s^^@e^^@
+                       p^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@s^^@e^^@p^^@
+                           a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@s^^@e^^@p^^@a^^@
+                               c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@s^^@e^^@p^^@a^^@c^^@
+                                   k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no k in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@
+                                       a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@
+                                           g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no g in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ^^@\^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@
+                                               e^^@{^^@a^^@m^^@s^^@m^^@a^^@t...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@u^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@
+                                                  {^^@a^^@m^^@s^^@m^^@a^^@t^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@s^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@
+                                                  a^^@m^^@s^^@m^^@a^^@t^^@h^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@e^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@
+                                                  m^^@s^^@m^^@a^^@t^^@h^^@,^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@p^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@
+                                                  s^^@m^^@a^^@t^^@h^^@,^^@a^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@a^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@
+                                                  m^^@a^^@t^^@h^^@,^^@a^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@c^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@
+                                                  a^^@t^^@h^^@,^^@a^^@m^^@s^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@k^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@
+                                                  t^^@h^^@,^^@a^^@m^^@s^^@t^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@a^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t^^@
+                                                  h^^@,^^@a^^@m^^@s^^@t^^@h^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no h in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@g^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t^^@h^^@
+                                                  ,^^@a^^@m^^@s^^@t^^@h^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no , in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@e^^@{^^@a^^@m^^@s^^@m^^@a^^@t^^@h^^@,^^@
+                                                  a^^@m^^@s^^@t^^@h^^@m^^@,^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@{^^@a^^@m^^@s^^@m^^@a^^@t^^@h^^@,^^@a^^@
+                                                  m^^@s^^@t^^@h^^@m^^@,^^@a^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@a^^@m^^@s^^@m^^@a^^@t^^@h^^@,^^@a^^@m^^@
+                                                  s^^@t^^@h^^@m^^@,^^@a^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@m^^@s^^@m^^@a^^@t^^@h^^@,^^@a^^@m^^@s^^@
+                                                  t^^@h^^@m^^@,^^@a^^@m^^@s^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@s^^@m^^@a^^@t^^@h^^@,^^@a^^@m^^@s^^@t^^@
+                                                  h^^@m^^@,^^@a^^@m^^@s^^@s^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no h in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@m^^@a^^@t^^@h^^@,^^@a^^@m^^@s^^@t^^@h^^@
+                                                  m^^@,^^@a^^@m^^@s^^@s^^@y^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@a^^@t^^@h^^@,^^@a^^@m^^@s^^@t^^@h^^@m^^@
+                                                  ,^^@a^^@m^^@s^^@s^^@y^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no , in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@t^^@h^^@,^^@a^^@m^^@s^^@t^^@h^^@m^^@,^^@
+                                                  a^^@m^^@s^^@s^^@y^^@m^^@b^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@h^^@,^^@a^^@m^^@s^^@t^^@h^^@m^^@,^^@a^^@
+                                                  m^^@s^^@s^^@y^^@m^^@b^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@,^^@a^^@m^^@s^^@t^^@h^^@m^^@,^^@a^^@m^^@
+                                                  s^^@s^^@y^^@m^^@b^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@a^^@m^^@s^^@t^^@h^^@m^^@,^^@a^^@m^^@s^^@
+                                                  s^^@y^^@m^^@b^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@m^^@s^^@t^^@h^^@m^^@,^^@a^^@m^^@s^^@s^^@
+                                                  y^^@m^^@b^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no y in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@s^^@t^^@h^^@m^^@,^^@a^^@m^^@s^^@s^^@y^^@
+                                                  m^^@b^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@t^^@h^^@m^^@,^^@a^^@m^^@s^^@s^^@y^^@m^^@
+                                                  b^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@h^^@m^^@,^^@a^^@m^^@s^^@s^^@y^^@m^^@b^^@
+                                                  }^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:9: Text line contains an invalid character.
+l.9 ...^^@m^^@,^^@a^^@m^^@s^^@s^^@y^^@m^^@b^^@}^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:10: Text line contains an invalid character.
+l.10 ^^@
+        
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--10
+[]
+ []
+
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@
+        \^^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Undefined control sequence.
+l.11 ^^@\^^@
+            n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./writeup.tex:11: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ^^@\^^@n
+             ^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@
+                e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@e^^@
+                    w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no w in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@e^^@w^^@
+                        c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@e^^@w^^@c^^@
+                            o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@e^^@w^^@c^^@o^^@
+                                m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@e^^@w^^@c^^@o^^@m^^@
+                                    m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@
+                                        a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@
+                                            n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ^^@\^^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@
+                                                d^^@{^^@\^^@N^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no d in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@
+                                                  {^^@\^^@N^^@}^^@{^^@\^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@
+                                                  \^^@N^^@}^^@{^^@\^^@m^^@a^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Undefined control sequence.
+l.11 ...^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@
+                                                  N^^@}^^@{^^@\^^@m^^@a^^@t^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no N in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@
+                                                  }^^@{^^@\^^@m^^@a^^@t^^@h^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@
+                                                  {^^@\^^@m^^@a^^@t^^@h^^@b^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@
+                                                  \^^@m^^@a^^@t^^@h^^@b^^@b^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Undefined control sequence.
+l.11 ...^@m^^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@
+                                                  m^^@a^^@t^^@h^^@b^^@b^^@{^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@a^^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@m^^@
+                                                  a^^@t^^@h^^@b^^@b^^@{^^@N^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@n^^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@m^^@a^^@
+                                                  t^^@h^^@b^^@b^^@{^^@N^^@}^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@d^^@{^^@\^^@N^^@}^^@{^^@\^^@m^^@a^^@t^^@
+                                                  h^^@b^^@b^^@{^^@N^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no h in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@{^^@\^^@N^^@}^^@{^^@\^^@m^^@a^^@t^^@h^^@
+                                                  b^^@b^^@{^^@N^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@\^^@N^^@}^^@{^^@\^^@m^^@a^^@t^^@h^^@b^^@
+                                                  b^^@{^^@N^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@N^^@}^^@{^^@\^^@m^^@a^^@t^^@h^^@b^^@b^^@
+                                                  {^^@N^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@}^^@{^^@\^^@m^^@a^^@t^^@h^^@b^^@b^^@{^^@
+                                                  N^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no N in font nullfont!
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@{^^@\^^@m^^@a^^@t^^@h^^@b^^@b^^@{^^@N^^@
+                                                  }^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@\^^@m^^@a^^@t^^@h^^@b^^@b^^@{^^@N^^@}^^@
+                                                  }^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:11: Text line contains an invalid character.
+l.11 ...^@m^^@a^^@t^^@h^^@b^^@b^^@{^^@N^^@}^^@}^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@
+        \^^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Undefined control sequence.
+l.12 ^^@\^^@
+            n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@
+                e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@e^^@
+                    w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no w in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@e^^@w^^@
+                        c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@e^^@w^^@c^^@
+                            o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@e^^@w^^@c^^@o^^@
+                                m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@e^^@w^^@c^^@o^^@m^^@
+                                    m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@
+                                        a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@
+                                            n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ^^@\^^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@
+                                                d^^@{^^@\^^@Z^^@}^^@{^^@\^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no d in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@n^^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@
+                                                  {^^@\^^@Z^^@}^^@{^^@\^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@e^^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@
+                                                  \^^@Z^^@}^^@{^^@\^^@m^^@a^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Undefined control sequence.
+l.12 ...^@w^^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@
+                                                  Z^^@}^^@{^^@\^^@m^^@a^^@t^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Z in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@c^^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@
+                                                  }^^@{^^@\^^@m^^@a^^@t^^@h^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@o^^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@
+                                                  {^^@\^^@m^^@a^^@t^^@h^^@b^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@m^^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@
+                                                  \^^@m^^@a^^@t^^@h^^@b^^@b^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Undefined control sequence.
+l.12 ...^@m^^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@
+                                                  m^^@a^^@t^^@h^^@b^^@b^^@{^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@a^^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@m^^@
+                                                  a^^@t^^@h^^@b^^@b^^@{^^@Z^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@n^^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@m^^@a^^@
+                                                  t^^@h^^@b^^@b^^@{^^@Z^^@}^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@d^^@{^^@\^^@Z^^@}^^@{^^@\^^@m^^@a^^@t^^@
+                                                  h^^@b^^@b^^@{^^@Z^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no h in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@{^^@\^^@Z^^@}^^@{^^@\^^@m^^@a^^@t^^@h^^@
+                                                  b^^@b^^@{^^@Z^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@\^^@Z^^@}^^@{^^@\^^@m^^@a^^@t^^@h^^@b^^@
+                                                  b^^@{^^@Z^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@Z^^@}^^@{^^@\^^@m^^@a^^@t^^@h^^@b^^@b^^@
+                                                  {^^@Z^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@}^^@{^^@\^^@m^^@a^^@t^^@h^^@b^^@b^^@{^^@
+                                                  Z^^@}^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Z in font nullfont!
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@{^^@\^^@m^^@a^^@t^^@h^^@b^^@b^^@{^^@Z^^@
+                                                  }^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@\^^@m^^@a^^@t^^@h^^@b^^@b^^@{^^@Z^^@}^^@
+                                                  }^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:12: Text line contains an invalid character.
+l.12 ...^@m^^@a^^@t^^@h^^@b^^@b^^@{^^@Z^^@}^^@}^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:13: Text line contains an invalid character.
+l.13 ^^@
+        
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 11--13
+[]
+ []
+
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@
+        \^^@n^^@e^^@w^^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:14: Undefined control sequence.
+l.14 ^^@\^^@
+            n^^@e^^@w^^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./writeup.tex:14: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ^^@\^^@n
+             ^^@e^^@w^^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@
+                e^^@w^^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@e^^@
+                    w^^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no w in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@e^^@w^^@
+                        e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@e^^@w^^@e^^@
+                            n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@e^^@w^^@e^^@n^^@
+                                v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no v in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@e^^@w^^@e^^@n^^@v^^@
+                                    i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@e^^@w^^@e^^@n^^@v^^@i^^@
+                                        r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@e^^@w^^@e^^@n^^@v^^@i^^@r^^@
+                                            o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ^^@\^^@n^^@e^^@w^^@e^^@n^^@v^^@i^^@r^^@o^^@
+                                                n^^@m^^@e^^@n^^@t^^@{^^@t^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@n^^@e^^@w^^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@
+                                                  m^^@e^^@n^^@t^^@{^^@t^^@h^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@e^^@w^^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@
+                                                  e^^@n^^@t^^@{^^@t^^@h^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@w^^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@
+                                                  n^^@t^^@{^^@t^^@h^^@e^^@o^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@e^^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@
+                                                  t^^@{^^@t^^@h^^@e^^@o^^@r^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@n^^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@
+                                                  {^^@t^^@h^^@e^^@o^^@r^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@v^^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@
+                                                  t^^@h^^@e^^@o^^@r^^@e^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@i^^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@
+                                                  h^^@e^^@o^^@r^^@e^^@m^^@}^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no h in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@r^^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@h^^@
+                                                  e^^@o^^@r^^@e^^@m^^@}^^@[^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@o^^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@h^^@e^^@
+                                                  o^^@r^^@e^^@m^^@}^^@[^^@2^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@n^^@m^^@e^^@n^^@t^^@{^^@t^^@h^^@e^^@o^^@
+                                                  r^^@e^^@m^^@}^^@[^^@2^^@]^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@m^^@e^^@n^^@t^^@{^^@t^^@h^^@e^^@o^^@r^^@
+                                                  e^^@m^^@}^^@[^^@2^^@]^^@[^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@e^^@n^^@t^^@{^^@t^^@h^^@e^^@o^^@r^^@e^^@
+                                                  m^^@}^^@[^^@2^^@]^^@[^^@T^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@n^^@t^^@{^^@t^^@h^^@e^^@o^^@r^^@e^^@m^^@
+                                                  }^^@[^^@2^^@]^^@[^^@T^^@h^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@t^^@{^^@t^^@h^^@e^^@o^^@r^^@e^^@m^^@}^^@
+                                                  [^^@2^^@]^^@[^^@T^^@h^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no [ in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@{^^@t^^@h^^@e^^@o^^@r^^@e^^@m^^@}^^@[^^@
+                                                  2^^@]^^@[^^@T^^@h^^@e^^@o^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 2 in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@t^^@h^^@e^^@o^^@r^^@e^^@m^^@}^^@[^^@2^^@
+                                                  ]^^@[^^@T^^@h^^@e^^@o^^@r^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ] in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@h^^@e^^@o^^@r^^@e^^@m^^@}^^@[^^@2^^@]^^@
+                                                  [^^@T^^@h^^@e^^@o^^@r^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no [ in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@e^^@o^^@r^^@e^^@m^^@}^^@[^^@2^^@]^^@[^^@
+                                                  T^^@h^^@e^^@o^^@r^^@e^^@m^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no T in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@o^^@r^^@e^^@m^^@}^^@[^^@2^^@]^^@[^^@T^^@
+                                                  h^^@e^^@o^^@r^^@e^^@m^^@]^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no h in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@r^^@e^^@m^^@}^^@[^^@2^^@]^^@[^^@T^^@h^^@
+                                                  e^^@o^^@r^^@e^^@m^^@]^^@{^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@e^^@m^^@}^^@[^^@2^^@]^^@[^^@T^^@h^^@e^^@
+                                                  o^^@r^^@e^^@m^^@]^^@{^^@\^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no o in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@m^^@}^^@[^^@2^^@]^^@[^^@T^^@h^^@e^^@o^^@
+                                                  r^^@e^^@m^^@]^^@{^^@\^^@b^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@}^^@[^^@2^^@]^^@[^^@T^^@h^^@e^^@o^^@r^^@
+                                                  e^^@m^^@]^^@{^^@\^^@b^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@[^^@2^^@]^^@[^^@T^^@h^^@e^^@o^^@r^^@e^^@
+                                                  m^^@]^^@{^^@\^^@b^^@e^^@g^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@2^^@]^^@[^^@T^^@h^^@e^^@o^^@r^^@e^^@m^^@
+                                                  ]^^@{^^@\^^@b^^@e^^@g^^@i^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ] in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@]^^@[^^@T^^@h^^@e^^@o^^@r^^@e^^@m^^@]^^@
+                                                  {^^@\^^@b^^@e^^@g^^@i^^@n^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@[^^@T^^@h^^@e^^@o^^@r^^@e^^@m^^@]^^@{^^@
+                                                  \^^@b^^@e^^@g^^@i^^@n^^@{^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:14: Undefined control sequence.
+l.14 ...^@T^^@h^^@e^^@o^^@r^^@e^^@m^^@]^^@{^^@\^^@
+                                                  b^^@e^^@g^^@i^^@n^^@{^^@t^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@h^^@e^^@o^^@r^^@e^^@m^^@]^^@{^^@\^^@b^^@
+                                                  e^^@g^^@i^^@n^^@{^^@t^^@r^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@e^^@o^^@r^^@e^^@m^^@]^^@{^^@\^^@b^^@e^^@
+                                                  g^^@i^^@n^^@{^^@t^^@r^^@i^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no g in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@o^^@r^^@e^^@m^^@]^^@{^^@\^^@b^^@e^^@g^^@
+                                                  i^^@n^^@{^^@t^^@r^^@i^^@v^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@r^^@e^^@m^^@]^^@{^^@\^^@b^^@e^^@g^^@i^^@
+                                                  n^^@{^^@t^^@r^^@i^^@v^^@l^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no n in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@e^^@m^^@]^^@{^^@\^^@b^^@e^^@g^^@i^^@n^^@
+                                                  {^^@t^^@r^^@i^^@v^^@l^^@i^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@m^^@]^^@{^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@
+                                                  t^^@r^^@i^^@v^^@l^^@i^^@s^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@]^^@{^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@
+                                                  r^^@i^^@v^^@l^^@i^^@s^^@t^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@{^^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@r^^@
+                                                  i^^@v^^@l^^@i^^@s^^@t^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@\^^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@r^^@i^^@
+                                                  v^^@l^^@i^^@s^^@t^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no v in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@b^^@e^^@g^^@i^^@n^^@{^^@t^^@r^^@i^^@v^^@
+                                                  l^^@i^^@s^^@t^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no l in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@e^^@g^^@i^^@n^^@{^^@t^^@r^^@i^^@v^^@l^^@
+                                                  i^^@s^^@t^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@g^^@i^^@n^^@{^^@t^^@r^^@i^^@v^^@l^^@i^^@
+                                                  s^^@t^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@i^^@n^^@{^^@t^^@r^^@i^^@v^^@l^^@i^^@s^^@
+                                                  t^^@}^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@n^^@{^^@t^^@r^^@i^^@v^^@l^^@i^^@s^^@t^^@
+                                                  }^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:14: Text line contains an invalid character.
+l.14 ...^@{^^@t^^@r^^@i^^@v^^@l^^@i^^@s^^@t^^@}^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@
+        \^^@i^^@t^^@e^^@m^^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Undefined control sequence.
+l.15 ^^@\^^@
+            i^^@t^^@e^^@m^^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@\^^@i^^@
+                t^^@e^^@m^^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no t in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@\^^@i^^@t^^@
+                    e^^@m^^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@\^^@i^^@t^^@e^^@
+                        m^^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no m in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@\^^@i^^@t^^@e^^@m^^@
+                            [^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no [ in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@\^^@i^^@t^^@e^^@m^^@[^^@
+                                \^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Undefined control sequence.
+l.15 ^^@\^^@i^^@t^^@e^^@m^^@[^^@\^^@
+                                    h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no h in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@\^^@i^^@t^^@e^^@m^^@[^^@\^^@h^^@
+                                        s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@\^^@i^^@t^^@e^^@m^^@[^^@\^^@h^^@s^^@
+                                            k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no k in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ^^@\^^@i^^@t^^@e^^@m^^@[^^@\^^@h^^@s^^@k^^@
+                                                i^^@p^^@ ^^@\^^@l^^@a^^@b^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@i^^@t^^@e^^@m^^@[^^@\^^@h^^@s^^@k^^@i^^@
+                                                  p^^@ ^^@\^^@l^^@a^^@b^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@t^^@e^^@m^^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@
+                                                   ^^@\^^@l^^@a^^@b^^@e^^@l^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@e^^@m^^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@
+                                                  \^^@l^^@a^^@b^^@e^^@l^^@s^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Undefined control sequence.
+l.15 ...^@m^^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@
+                                                  l^^@a^^@b^^@e^^@l^^@s^^@e^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no l in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@[^^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@
+                                                  a^^@b^^@e^^@l^^@s^^@e^^@p^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no a in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@\^^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@
+                                                  b^^@e^^@l^^@s^^@e^^@p^^@ ^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@h^^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@
+                                                  e^^@l^^@s^^@e^^@p^^@ ^^@{^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@s^^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@e^^@
+                                                  l^^@s^^@e^^@p^^@ ^^@{^^@\^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no l in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@k^^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@e^^@l^^@
+                                                  s^^@e^^@p^^@ ^^@{^^@\^^@b^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@i^^@p^^@ ^^@\^^@l^^@a^^@b^^@e^^@l^^@s^^@
+                                                  e^^@p^^@ ^^@{^^@\^^@b^^@f^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@p^^@ ^^@\^^@l^^@a^^@b^^@e^^@l^^@s^^@e^^@
+                                                  p^^@ ^^@{^^@\^^@b^^@f^^@s^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@ ^^@\^^@l^^@a^^@b^^@e^^@l^^@s^^@e^^@p^^@
+                                                   ^^@{^^@\^^@b^^@f^^@s^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@\^^@l^^@a^^@b^^@e^^@l^^@s^^@e^^@p^^@ ^^@
+                                                  {^^@\^^@b^^@f^^@s^^@e^^@r^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@l^^@a^^@b^^@e^^@l^^@s^^@e^^@p^^@ ^^@{^^@
+                                                  \^^@b^^@f^^@s^^@e^^@r^^@i^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Undefined control sequence.
+l.15 ...^@a^^@b^^@e^^@l^^@s^^@e^^@p^^@ ^^@{^^@\^^@
+                                                  b^^@f^^@s^^@e^^@r^^@i^^@e^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no b in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@b^^@e^^@l^^@s^^@e^^@p^^@ ^^@{^^@\^^@b^^@
+                                                  f^^@s^^@e^^@r^^@i^^@e^^@s^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no f in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@e^^@l^^@s^^@e^^@p^^@ ^^@{^^@\^^@b^^@f^^@
+                                                  s^^@e^^@r^^@i^^@e^^@s^^@ ^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@l^^@s^^@e^^@p^^@ ^^@{^^@\^^@b^^@f^^@s^^@
+                                                  e^^@r^^@i^^@e^^@s^^@ ^^@#^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@s^^@e^^@p^^@ ^^@{^^@\^^@b^^@f^^@s^^@e^^@
+                                                  r^^@i^^@e^^@s^^@ ^^@#^^@1^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@e^^@p^^@ ^^@{^^@\^^@b^^@f^^@s^^@e^^@r^^@
+                                                  i^^@e^^@s^^@ ^^@#^^@1^^@}^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@p^^@ ^^@{^^@\^^@b^^@f^^@s^^@e^^@r^^@i^^@
+                                                  e^^@s^^@ ^^@#^^@1^^@}^^@\^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@ ^^@{^^@\^^@b^^@f^^@s^^@e^^@r^^@i^^@e^^@
+                                                  s^^@ ^^@#^^@1^^@}^^@\^^@h^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@{^^@\^^@b^^@f^^@s^^@e^^@r^^@i^^@e^^@s^^@
+                                                   ^^@#^^@1^^@}^^@\^^@h^^@s^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@\^^@b^^@f^^@s^^@e^^@r^^@i^^@e^^@s^^@ ^^@
+                                                  #^^@1^^@}^^@\^^@h^^@s^^@k^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: You can't use `macro parameter character #' in horizontal mode.
+l.15 ...@\^^@b^^@f^^@s^^@e^^@r^^@i^^@e^^@s^^@ ^^@#
+                                                  ^^@1^^@}^^@\^^@h^^@s^^@k^^...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@b^^@f^^@s^^@e^^@r^^@i^^@e^^@s^^@ ^^@#^^@
+                                                  1^^@}^^@\^^@h^^@s^^@k^^@i^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 1 in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@f^^@s^^@e^^@r^^@i^^@e^^@s^^@ ^^@#^^@1^^@
+                                                  }^^@\^^@h^^@s^^@k^^@i^^@p^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@s^^@e^^@r^^@i^^@e^^@s^^@ ^^@#^^@1^^@}^^@
+                                                  \^^@h^^@s^^@k^^@i^^@p^^@ ^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+./writeup.tex:15: Undefined control sequence.
+l.15 ...^@e^^@r^^@i^^@e^^@s^^@ ^^@#^^@1^^@}^^@\^^@
+                                                  h^^@s^^@k^^@i^^@p^^@ ^^@\^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no h in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@r^^@i^^@e^^@s^^@ ^^@#^^@1^^@}^^@\^^@h^^@
+                                                  s^^@k^^@i^^@p^^@ ^^@\^^@l^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no s in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@i^^@e^^@s^^@ ^^@#^^@1^^@}^^@\^^@h^^@s^^@
+                                                  k^^@i^^@p^^@ ^^@\^^@l^^@a^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no k in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@e^^@s^^@ ^^@#^^@1^^@}^^@\^^@h^^@s^^@k^^@
+                                                  i^^@p^^@ ^^@\^^@l^^@a^^@b^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no i in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@s^^@ ^^@#^^@1^^@}^^@\^^@h^^@s^^@k^^@i^^@
+                                                  p^^@ ^^@\^^@l^^@a^^@b^^@e^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no p in font nullfont!
+./writeup.tex:15: Text line contains an invalid character.
+l.15 ...^@ ^^@#^^@1^^@}^^@\^^@h^^@s^^@k^^@i^^@p^^@
+                                                   ^^@\^^@l^^@a^^@b^^@e^^@l^...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 16 strings out of 481239
+ 389 string characters out of 5920377
+ 236564 words of memory out of 5000000
+ 15384 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 12i,0n,15p,189b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+./writeup.tex:15:  ==> Fatal error occurred, no output PDF file produced!
