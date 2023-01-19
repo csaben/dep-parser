@@ -24,7 +24,12 @@ from transformers import AutoModel
 def main():
     sentence = "I prefer the morning flight through denver."
     ds = TestDataset([sentence])
-    parsed=DEP_PARSER.parse(sentence)
+    parsed=DEP_PARSER.parse(sentence.split())
+    parsed = [[(governor, dep, dependent) for governor, dep, dependent in parse.triples()] for parse in parsed]
+
+#        label = self.dep_parser.parse(sentence.split())
+#        label = [[(governor, dep, dependent) for governor, dep, dependent in parse.triples()] for
+#                  parse in label]
     collate_fn = Collate(20)
     dataloader = DataLoader(ds, batch_size=1, collate_fn=collate_fn)
     print(parsed)
