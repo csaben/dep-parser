@@ -78,8 +78,8 @@ if __name__ == "__main__":
 
     original_label = inference_obj.get_original_label(valid_tokenized_label)
 
-    print(f"Tokenized Label: {tokenized_label}\n")
-    print(f"Original Label: {original_label}")
+    # print(f"Tokenized Label: {tokenized_label}\n")
+    # print(f"Original Label: {original_label}")
 
     ### now lets assume that our tokenized label is new
 

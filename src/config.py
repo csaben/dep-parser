@@ -12,3 +12,5 @@ TEST = ""
 MODEL = BertModel.from_pretrained("bert-base-cased")
 TOKENIZER = BertTokenizer.from_pretrained("bert-base-uncased")
 DEP_PARSER = CoreNLPDependencyParser(url='http://localhost:9000')
+MAX_LEN=512 #was 98 for document but we will use a mask anyway
+MAX_TUPLE=10
