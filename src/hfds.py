@@ -22,33 +22,44 @@ import itertools
 from transformers import AutoModel
 
 def main():
-    text_dataset = load_dataset("text", data_files=DATA)
-    sentences = text_dataset["train"]['text']
-    sentences = list(filter(None, sentences))
-    ds = TestDataset(sentences)
-    # ids, label = ds[0]
+    sentence = "I prefer the morning flight through denver."
+    ds = TestDataset([sentence])
+    parsed=DEP_PARSER.parse(sentence)
     collate_fn = Collate(20)
-    dataloader = DataLoader(ds, batch_size=3, collate_fn=collate_fn)
-    model = DepParseModel()
-    optimizer = torch.optim.Adam(model.parameters(), lr=2e-5)
-    model.train()
-        # output["ids"] = [sample["ids"] for sample in batch]
-        # output["mask"] = [sample["mask"] for sample in batch]
-        # output["targets"] = [sample["targets"] for sample in batch]
-    steps=1e5
+    dataloader = DataLoader(ds, batch_size=1, collate_fn=collate_fn)
+    print(parsed)
+    print(ds[0].keys())
+    print(ds[0])
+    for i, output in enumerate(dataloader):
+        print(output)
 
-    #REDO THE TRAINING LOOP; The label poses a pretty big problem to meaningful training
-    #TIME FOR WRITEUP
-    for step in range(steps):
-        for i, output in enumerate(dataloader):
-            input, mask, label = output["ids"], output["mask"], output["targets"]
-            optimizer.zero_grad()
-            outputs = model(input, mask)
-            loss = model.loss(label, input)
-            loss.backward()
-            optimizer.step()
-            if step % 100 == 0:
-                print(f"step {step}, Loss: {loss.itm()}")
+    #text_dataset = load_dataset("text", data_files=DATA)
+    #sentences = text_dataset["train"]['text']
+    #sentences = list(filter(None, sentences))
+    #ds = TestDataset(sentences)
+    ## ids, label = ds[0]
+    #collate_fn = Collate(20)
+    #dataloader = DataLoader(ds, batch_size=3, collate_fn=collate_fn)
+    #model = DepParseModel()
+    #optimizer = torch.optim.Adam(model.parameters(), lr=2e-5)
+    #model.train()
+    #    # output["ids"] = [sample["ids"] for sample in batch]
+    #    # output["mask"] = [sample["mask"] for sample in batch]
+    #    # output["targets"] = [sample["targets"] for sample in batch]
+    #steps=1e5
+
+    ##REDO THE TRAINING LOOP; The label poses a pretty big problem to meaningful training
+    ##TIME FOR WRITEUP
+    #for step in range(steps):
+    #    for i, output in enumerate(dataloader):
+    #        input, mask, label = output["ids"], output["mask"], output["targets"]
+    #        optimizer.zero_grad()
+    #        outputs = model(input, mask)
+    #        loss = model.loss(label, input)
+    #        loss.backward()
+    #        optimizer.step()
+    #        if step % 100 == 0:
+    #            print(f"step {step}, Loss: {loss.itm()}")
 
         # print(i)
         # print(output)
