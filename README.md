@@ -1,40 +1,17 @@
-# Dependency Parsing Application
-
-
-Welcome to the Dependency Parsing Application! This project provides a command-line interface for parsing the dependencies in a given sentence.
-
-## Setup (tentative; final will take documents and output parsed trees and a key to their context in a separate file)
-
-To use this project, you will need to have the following requirements installed on your system:
-
-- Docker
-
-To install the required dependencies, follow these steps:
-
-1. Clone this repository onto your local machine:
-
-```
-git clone https://github.com/<your-username>/dependency-parsing-app.git
-```
-
-2. Navigate to the root directory of the repository:
-
-```
-cd dependency-parsing-app
-```
-
-3. Build the Docker container:
-
-```
-docker build -t dependency-parsing-app .
-```
+# Dependency Parser 
 
 ## Usage
 
-To parse the dependencies in a given sentence, run the following command:
+To parse the dependencies in a given sentence (using stanford parser) , run the following command:
 
 ```
-docker run dependency-parsing-app -s "Your sentence here"
+python src/playback.py custom "Your sentence here"
+```
+
+To parse the dependencies in a given sentence using my parser (TBD)
+
+```
+python src/inference.py custom "Your sentence here"
 ```
 
 This will output the parsed dependencies in a tree structure.
