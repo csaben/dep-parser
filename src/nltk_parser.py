@@ -18,6 +18,13 @@ sentence = 'I prefer the morning flight through Denver'
 # parses = dep_parser.parse('What is the airspeed of an unladen swallow ?'.split())
 parses = dep_parser.parse(sentence.split())
 s = [[(governor, dep, dependent) for governor, dep, dependent in parse.triples()] for parse in parses]
+# s=[]
+# parses = next(parses)
+# for line in parses.to_conll ().split('\n'):
+#     if line:
+#         s.append(line.split('\t'))
+
+
 print(s)
 
 #use this dep parse, finding the root is trivially easy if you can read grammar well, so use this

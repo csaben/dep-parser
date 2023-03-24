@@ -1,0 +1,7 @@
+fire
+numpy
+transformers
+torch
+nltk
+
+

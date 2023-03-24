@@ -46,6 +46,7 @@ This will output the parsed dependencies in a tree structure.
 To generate the dataset, you can use the NLTK Stanford NLP pipeline. Here's how you can set it up:
 
 1. Download the Stanford CoreNLP server from [here](https://stanfordnlp.github.io/CoreNLP/download.html).
+(actually look here)[https://github.com/nltk/nltk/wiki/Stanford-CoreNLP-API-in-NLTK]
 
 2. Extract the downloaded file and navigate to the root directory:
 ```
